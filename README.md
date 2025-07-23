@@ -35,11 +35,11 @@ This generates model.joblib in the root folder
 
 2. **Launch the Streamlit app**:
    ```bash
-   streamlit run app.py```
+   streamlit run app.py
 
 The app will open automatically in your browser at http://localhost:8501
 
-🌟 Features
+**🌟 Features**
 Data Exploration: Filter and visualize the dataset
 
 Interactive Visualizations: 3 types of plots (histograms, scatter plots, heatmap)
@@ -49,7 +49,7 @@ Quality Prediction: Real-time predictions with probability scores
 Model Performance: Accuracy metrics and confusion matrix
 
 **Project Structure**
-wine_quality_app/
+```wine_quality_app/
 ├── app.py                # Streamlit application
 ├── model.joblib          # Trained model
 ├── requirements.txt      # Dependencies
@@ -57,6 +57,7 @@ wine_quality_app/
 │   └── winequality-red.csv  # Dataset
 └── notebooks/
     └── model_training.ipynb # Training code
+```
 
 
 
