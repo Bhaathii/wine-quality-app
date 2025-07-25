@@ -1,6 +1,7 @@
 # Wine Quality Prediction App
 
 A machine learning web app that predicts red wine quality (binary classification) using Streamlit.
+[Wine Quality](https://bhaathii-wine-quality-app-app-wqm33q.streamlit.app/)
 
 ![App Screenshot](https://github.com/Bhaathii/wine-quality-app/blob/main/notebooks/ss.png?raw=true)  
 
